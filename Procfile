@@ -1,0 +1,1 @@
+web: gunicorn chrisprueba.wsgi --log-file -
